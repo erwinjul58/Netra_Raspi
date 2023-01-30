@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Menu1.qml</file>
+        <file>Menu2.qml</file>
+        <file>Menu3.qml</file>
+        <file>MyButton.qml</file>
+        <file>pic1.jpg</file>
+        <file>Ptpp.jpeg</file>
+        <file>pcb.jpg</file>
+        <file>Connected.png</file>
+        <file>netra1.png</file>
+        <file>SMA.js</file>
+        <file>parser.js</file>
+    </qresource>
+</RCC>
